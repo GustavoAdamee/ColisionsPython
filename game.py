@@ -94,4 +94,4 @@ while True:
     #update the screen
     pygame.display.update()
 
-    clock.tick(50)
+    clock.tick(120)
